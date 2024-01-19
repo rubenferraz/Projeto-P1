@@ -1,5 +1,5 @@
 
-# Projeto
+# Projeto Jogo do Galo
 
 Este repositório contém o projeto desenvolvido para a Unidade Curricular de Programação, administrada pela Professora Alexandra Mendes na Universidade da Beira Interior.
 
